@@ -7,7 +7,7 @@
 package lex
 
 import (
-	"bytes"
+	"bytes
 	"errors"
 	"fmt"
 	"go/token"
