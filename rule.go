@@ -4,7 +4,7 @@
 
 // blame: jnml, labs.nic.cz
 
-package lex
+ package lex
 
 import (
 	"bytes"
